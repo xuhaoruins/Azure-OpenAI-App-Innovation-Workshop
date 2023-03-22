@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Azure-OpenAI-App-Innovation-IAD-Workshop\\Source Code\\WorkshopProject\\HostEngine\\HostEngine.csproj": {}
+  },
+  "projects": {
+    "d:\\Azure-OpenAI-App-Innovation-IAD-Workshop\\Source Code\\WorkshopProject\\HostEngine\\HostEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Azure-OpenAI-App-Innovation-IAD-Workshop\\Source Code\\WorkshopProject\\HostEngine\\HostEngine.csproj",
+        "projectName": "HostEngine",
+        "projectPath": "d:\\Azure-OpenAI-App-Innovation-IAD-Workshop\\Source Code\\WorkshopProject\\HostEngine\\HostEngine.csproj",
+        "packagesPath": "C:\\Users\\haxu\\.nuget\\packages\\",
+        "outputPath": "d:\\Azure-OpenAI-App-Innovation-IAD-Workshop\\Source Code\\WorkshopProject\\HostEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\haxu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.AI.OpenAI": {
+              "target": "Package",
+              "version": "[1.0.0-beta.4, )"
+            },
+            "Azure.Search.Documents": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.32.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.96, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

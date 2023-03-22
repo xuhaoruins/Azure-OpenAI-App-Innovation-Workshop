@@ -1,6 +1,6 @@
 # Azure OpenAI App Innovation Workshop 
 
-## Enterprise GPT Intelligent Application Architecture
+## Enterprise GPT Intelligent Application Architecture - A prompt engineering approach
 The importance of Prompt Engineering in the field of large-scale language model applications is gradually becoming apparent. Prompt Engineering is a technique based on human language intuition that can help enterprises quickly achieve specific functions when building large language models. Based on the formal representation of natural language questions, Prompt Engineering can effectively guide the learning process of large language models, thereby improving their performance. Some papers have shown that in certain complex reasoning and thought-chain contexts, prompts even perform better than fine-tuning.
 
 Based on these research findings, we have proposed a framework for enterprise-level GPT intelligent application engineering, which is based on Prompt Engineering. The framework, as shown in the diagram below, allows enterprises to quickly build their own large-scale intelligent applications without modifying the model itself, and immediately enjoy the productivity dividend brought by the new generation of artificial intelligence.
@@ -26,13 +26,27 @@ Whether you are a novice or an experienced professional, this workshop will meet
 ### Product Documents
 
 - [Azure Openai](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/)
-- [Azure PaaS](https://learn.microsoft.com/zh-cn/azure/?product=web)
-- [Azure Data Service](https://learn.microsoft.com/zh-cn/azure/?product=databases)
 - [Azure Cognitive Search](https://learn.microsoft.com/zh-cn/azure/search/)
+- [Azure App Service](https://learn.microsoft.com/zh-cn/azure/app-service/)
+- [Azure API Management](https://learn.microsoft.com/zh-cn/azure/api-management/)
+- [Azure Container App](https://learn.microsoft.com/zh-cn/azure/container-apps/)
+- [Azure Kubernetes Service](https://learn.microsoft.com/zh-cn/azure/aks/)
+- [Azure CosmosDB](https://learn.microsoft.com/zh-cn/azure/cosmos-db/)
+- [Azure Cache for Redis](https://learn.microsoft.com/zh-cn/azure/azure-cache-for-redis/)
+- [Azure Azure Database for PostgreSQL](https://learn.microsoft.com/zh-cn/azure/postgresql/)
 
 ### Reference
-- [How does GPT obtain its ability](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1#a83aa8c34a254289ace924fa83e0b9c9)
+- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1#a83aa8c34a254289ace924fa83e0b9c9)
+https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f)
+- [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f)
 - [Jason Wei, Xuezhi Wang, Dale Schuurmans, et al. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. arXiv, 2022](https://arxiv.org/abs/2201.11903)
+- [Taylor Webb, Keith J. Holyoak, Hongjing Lu. Emergent Analogical Reasoning in Large Language Models. arXiv:2212.09196, 2022](https://arxiv.org/abs/2212.09196)
+- [Jiacheng Liu, Alisa Liu, Ximing Lu, et al. Generated Knowledge Prompting for Commonsense Reasoning. arXiv:2110.08387, 2022](https://arxiv.org/abs/2110.08387)
+- [Victor Sanh, Albert Webson, Colin Raffel, et al. Multitask Prompted Training Enables Zero-Shot Task Generalization. arXiv:2110.08207, 2022](https://arxiv.org/abs/2110.08207)
+- [Laria Reynolds, Kyle McDonell. Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm. arXiv:2102.07350, 2021](https://arxiv.org/abs/2102.07350)
+- [Xuezhi Wang, Jason Wei, Dale Schuurmans, et al. Self-Consistency Improves Chain of Thought Reasoning in Language Models. arXiv:2203.11171, 2022](https://arxiv.org/abs/2203.11171)
+- [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+
 - [Best practices for prompt engineering with openai api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/)
 
