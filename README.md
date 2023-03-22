@@ -25,10 +25,10 @@ Whether you are a novice or an experienced professional, this workshop will meet
 
 ### Product Documents
 
-- [Azure Openai Doc](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/)
-- [Azure PaaS Doc](https://learn.microsoft.com/zh-cn/azure/?product=web)
-- [Azure Data Service Doc](https://learn.microsoft.com/zh-cn/azure/?product=databases)
-- [Azure Cognitive Search Docu](https://learn.microsoft.com/zh-cn/azure/search/)
+- [Azure Openai](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/)
+- [Azure PaaS](https://learn.microsoft.com/zh-cn/azure/?product=web)
+- [Azure Data Service](https://learn.microsoft.com/zh-cn/azure/?product=databases)
+- [Azure Cognitive Search](https://learn.microsoft.com/zh-cn/azure/search/)
 
 ### Reference
 - [How does GPT obtain its ability](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1#a83aa8c34a254289ace924fa83e0b9c9)
