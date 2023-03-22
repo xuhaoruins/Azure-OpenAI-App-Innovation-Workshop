@@ -17,11 +17,11 @@ In this workshop, attendees will learn how to select Azure workloads to design a
 
 Whether you are a novice or an experienced professional, this workshop will meet the expectations and needs of participants. Attendees will be able to interact with experts, share experiences, and gain inspiration and insights from real project cases. Together, we will explore exciting GPT intelligent applications and usher in a new era of intelligent applications!
 
-Workshop content [Chinese](./Workshop%20Content%20CHS/)
-Workshop content [English](./Workshop%20Content%20EN/)
-Demo notebook [here](./Demo%20Notebook/)
-Source code [here](./Source%20Code/)
-Hands on lab manual [here](./Hands%20on%20lab%20manual/)
+- Workshop content [Chinese](./Workshop%20Content%20CHS/)
+- Workshop content [English](./Workshop%20Content%20EN/)
+- Demo notebook [here](./Demo%20Notebook/)
+- Source code [here](./Source%20Code/)
+- Hands on lab manual [here](./Hands%20on%20lab%20manual/)
 
 ### Product Documents
 
