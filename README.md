@@ -9,6 +9,18 @@ Based on these research findings, we have proposed a framework for enterprise-le
 
 As shown in the diagram, this architecture utilizes a flexible prompt engine and supports various deployment forms such as PaaS, Serverless, and containers, enabling enterprises to optimize the prompt engine using their existing development technology stack and elastically scale computing resources according to real-time business needs. The session and token data service layer, based on Redis and CosmosDB, adds contextual caching, session persistence, prompt persistence, and other capabilities to the application, leaving room for future model or engine optimization based on prompts. The API encapsulation, load balancing, and gateway at the front end further enhance application security and reliability, allowing the intelligent entity to integrate with various front-end apps in a more secure and stable manner. Most importantly, this architecture is designed with a dual-engine architecture based on Azure Cognitive Search and Embedding, two additional private knowledge base technologies. On the one hand, Azure Cognitive Search can quickly index unstructured data such as PDF and WORD files, allowing existing data to be used immediately. On the other hand, by utilizing Azure PostgreSQL's vector storage and processing capabilities and combining them with Azure OpenAI's embedding vector generation model, the enterprise's existing structured knowledge base can be integrated with the prompt engine, producing more accurate, stable, and reliable results from the GPT model.
 
+## LLM Develop Framework / SDK
+
+Semantic Kernel (SK) is a lightweight SDK enabling integration of AI Large Language Models (LLMs) with conventional programming languages. The SK extensible programming model combines natural language semantic functions, traditional code native functions, and embeddings-based memory unlocking new potential and adding value to applications with AI.
+
+SK supports prompt templating, function chaining, vectorized memory, and intelligent planning capabilities out of the box.
+
+ ![Semantic Kernel](./media/ks.png)
+
+Semantic Kernel is designed to support and encapsulate several design patterns from the latest in AI research, such that developers can infuse their applications with complex skills like prompt chaining, recursive reasoning, summarization, zero/few-shot learning, contextual memory, long-term memory, embeddings, semantic indexing, planning, and accessing external knowledge stores as well as your own data.
+
+For more information, please visit [Semantic Kernel Project](https://github.com/microsoft/semantic-kernel)
+
 ## Azure OpenAI App Innovation In-A-Day Workshop 
 
 This is a full-day workshop focused on exploring the use of Azure PaaS and OpenAI services to build modern intelligent applications. It aims to provide practical skills and experience in developing innovative intelligent applications on Azure for IT and architecture decision-makers, business decision-makers, and developers.
