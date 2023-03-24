@@ -1,6 +1,6 @@
 # Azure OpenAI App Innovation Workshop 
 
-## Enterprise GPT Intelligent Application Architecture - A prompt engineering approach
+## Enterprise GPT-ize Intelligent Application Architecture - A prompt engineering approach with LLM AI Dev Framework
 The importance of Prompt Engineering in the field of large-scale language model applications is gradually becoming apparent. Prompt Engineering is a technique based on human language intuition that can help enterprises quickly achieve specific functions when building large language models. Based on the formal representation of natural language questions, Prompt Engineering can effectively guide the learning process of large language models, thereby improving their performance. Some papers have shown that in certain complex reasoning and thought-chain contexts, prompts even perform better than fine-tuning.
 
 Based on these research findings, we have proposed a framework for enterprise-level GPT intelligent application engineering, which is based on Prompt Engineering. The framework, as shown in the diagram below, allows enterprises to quickly build their own large-scale intelligent applications without modifying the model itself, and immediately enjoy the productivity dividend brought by the new generation of artificial intelligence.
