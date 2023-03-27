@@ -9,7 +9,7 @@ Based on these research findings, we have proposed a framework for enterprise-le
 
 As shown in the diagram, this architecture utilizes a flexible semantic compute engine as prompt engine and supports various deployment forms such as PaaS, Serverless, and containers, enabling enterprises to optimize the prompt engine with modern LLM AI application development framework and elastically scale computing resources according to real-time business needs. The session and token data service layer, based on Redis and CosmosDB, adds contextual caching, session persistence, prompt persistence, and other capabilities to the application, leaving room for future model or engine optimization based on prompts. The API encapsulation, load balancing, and gateway at the front end further enhance application security and reliability, allowing the intelligent entity to integrate with various front-end apps in a more secure and stable manner. Most importantly, this architecture is designed with a dual-engine architecture based on Azure Cognitive Search and vector embedding, two additional private knowledge base technologies. On the one hand, Azure Cognitive Search can quickly index unstructured data such as PDF and WORD files, allowing existing data to be used immediately. On the other hand, by utilizing Azure Database with vector storage and processing capabilities and combining them with Azure OpenAI's embedding vector generation model, the enterprise's existing structured knowledge base can be integrated easily, which producing more accurate, stable, and reliable results from the cutting-edge GPT model.
 
-## Semantic Kernel - LLM Dev Framework / SDK
+## Semantic Kernel - LLM AI Dev Framework / SDK
 
 Semantic Kernel (SK) is a lightweight SDK enabling integration of AI Large Language Models (LLMs) with conventional programming languages. The SK extensible programming model combines natural language semantic functions, traditional code native functions, and embeddings-based memory unlocking new potential and adding value to applications with AI.
 
@@ -47,7 +47,11 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - [Azure Cache for Redis](https://learn.microsoft.com/zh-cn/azure/azure-cache-for-redis/)
 - [Azure Azure Database for PostgreSQL](https://learn.microsoft.com/zh-cn/azure/postgresql/)
 
-### Reference
+### Related Projects
+- [miyagi](https://github.com/appdevgbb/miyagi)
+- [reddog](https://github.com/Azure/reddog-solutions)
+
+### Literature Reference
 - [Jason Wei, Xuezhi Wang, Dale Schuurmans, et al. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. arXiv, 2022](https://arxiv.org/abs/2201.11903)
 - [Taylor Webb, Keith J. Holyoak, Hongjing Lu. Emergent Analogical Reasoning in Large Language Models. arXiv:2212.09196, 2022](https://arxiv.org/abs/2212.09196)
 - [Jiacheng Liu, Alisa Liu, Ximing Lu, et al. Generated Knowledge Prompting for Commonsense Reasoning. arXiv:2110.08387, 2022](https://arxiv.org/abs/2110.08387)
