@@ -31,9 +31,9 @@ Whether you are a novice or an experienced professional, this workshop will meet
 
 - Workshop content [Chinese](./Workshop%20Content%20CHS/)
 - Workshop content [English](./Workshop%20Content%20EN/)
-- Demo notebook [here](./Demo%20Notebook/)
-- Source code [here](./Source%20Code/)
-- Hands on lab manual [here](./Hands%20on%20lab%20manual/)
+- [Demo notebook](./Demo%20Notebook/)
+- [Source code](./Source%20Code/)
+- [Hands on lab manual](./Hands%20on%20lab%20manual/)
 
 ### Product Documents
 
