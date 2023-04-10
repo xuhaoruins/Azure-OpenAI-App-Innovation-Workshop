@@ -21,9 +21,9 @@ Semantic Kernel is designed to support and encapsulate several design patterns f
 
 For more information, please visit [Semantic Kernel Project](https://github.com/microsoft/semantic-kernel)
 
-## Azure OpenAI App Innovation In-A-Day Workshop 
+## Azure GPT App Innovation Workshop 
 
-This is a full-day workshop focused on exploring the use of Azure PaaS and OpenAI services to build modern intelligent applications. It aims to provide practical skills and experience in developing innovative intelligent applications on Azure for IT and architecture decision-makers, business decision-makers, and developers.
+This is an app innovation workshop focused on exploring the use of Azure PaaS and OpenAI GPT model to build modern large language modelintelligent applications. Workshop aims to provide practical skills and experience in developing innovative intelligent applications on Azure for IT and architecture decision-makers, business decision-makers, and developers.
 
 In this workshop, attendees will learn how to select Azure workloads to design a modern GPT intelligent application, understand Azure OpenAI services, explore the capabilities of large model prompt engineering, understand common parameters and options in the OpenAI API, and land an next generation GPT intelligent application architecture inside their organization through hands-on experimentation.
 
