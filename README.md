@@ -48,12 +48,19 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - [Azure Azure Database for PostgreSQL](https://learn.microsoft.com/zh-cn/azure/postgresql/)
 - [Qdrant Vector Database on Azure Cloud](https://github.com/Azure-Samples/qdrant-azure)
 
-### Related Projects
-- [miyagi](https://github.com/appdevgbb/miyagi)
-- [reddog](https://github.com/Azure/reddog-solutions)
+### Project you may need
+- [Experimental: Uncle John's Semantic Kernel Recipes](https://github.com/johnmaeda/SK-Recipes)
+- [Hackathon Materials for Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/support/hackathon)
+- [Durable Task Framework](https://github.com/microsoft/durabletask-go/tree/dapr)
+- [Learn Azure OpenAI Service with .NET](https://github.com/kinfey/dotNETOAIBooks)
+- [Project Miyagi - Financial coach](https://github.com/appdevgbb/miyagi)
+- [reddog-solutions](https://github.com/Azure/reddog-solutions)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/)
 
-### Literature Reference
+### Reference
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+- [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+- [Automatic Generation of Grammar-Agnostic Visualizations and Infographics](https://microsoft.github.io/lida/)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. arXiv, 2022](https://arxiv.org/abs/2201.11903)
 - [Emergent Analogical Reasoning in Large Language Models. arXiv:2212.09196, 2022](https://arxiv.org/abs/2212.09196)
 - [Generated Knowledge Prompting for Commonsense Reasoning. arXiv:2110.08387, 2022](https://arxiv.org/abs/2110.08387)
@@ -64,5 +71,5 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f)
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 - [Best practices for prompt engineering with openai api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/)
+
 
