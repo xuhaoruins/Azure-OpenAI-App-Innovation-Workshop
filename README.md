@@ -48,7 +48,10 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - [Azure Azure Database for PostgreSQL](https://learn.microsoft.com/zh-cn/azure/postgresql/)
 - [Qdrant Vector Database on Azure Cloud](https://github.com/Azure-Samples/qdrant-azure)
 
-### Project you may need
+### Relevant Repositories
+- [Knowledge Mining with OpenAI Architecture](https://github.com/MSUSAzureAccelerators/Knowledge-Mining-with-OpenAI)
+- [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo)
+- [Azure OpenAI Samples](https://github.com/Azure/azure-openai-samples)
 - [Experimental: Uncle John's Semantic Kernel Recipes](https://github.com/johnmaeda/SK-Recipes)
 - [Hackathon Materials for Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/support/hackathon)
 - [Durable Task Framework](https://github.com/microsoft/durabletask-go/tree/dapr)
@@ -70,7 +73,7 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 - [Best practices for prompt engineering with openai api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
 
-### Related Reference
+### Further research and exploration
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 - [Automatic Generation of Grammar-Agnostic Visualizations and Infographics](https://microsoft.github.io/lida/)
