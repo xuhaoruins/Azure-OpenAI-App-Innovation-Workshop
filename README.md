@@ -1,9 +1,11 @@
 # Azure OpenAI App Innovation Workshop 
 
-## Next-Gen GPT-ize Intelligent Application Architecture - A prompt engineering approach with LLM AI Dev Framework
+## Next-Gen GPT-ize Intelligent Application Architecture - A prompt engineering plus retrieval augmented generation approach with LLM AI Dev Framework
 The importance of Prompt Engineering in the field of large-scale language model applications is gradually becoming apparent. Prompt Engineering is a technique based on human language intuition that can help startup, corporate, and enterprises quickly achieve specific functions when building large language models. Based on the formal representation of natural language questions, Prompt Engineering can effectively guide the learning process of large language models, thereby improving their performance. Some papers have shown that in certain complex reasoning and thought-chain contexts, prompts even perform better than fine-tuning.
 
-Based on these research findings, we have proposed a framework for enterprise-level next generation GPT intelligent application engineering, which is based on Prompt Engineering. The framework, as shown in the diagram below, allows developers to quickly build their own large-scale intelligent applications without modifying the model itself, and immediately enjoy the productivity dividend brought by the new generation of artificial intelligence.
+Retrieval Augmented Generation (RAG) is a method that greatly enhances the accuracy of GPT in answering questions. It combines pre-trained models with vectorized data storage, allowing for direct retrieval and manipulation of external knowledge during text generation. RAG can assist GPT models in better understanding and utilizing given knowledge, thus improving their performance in knowledge-intensive tasks. In practical applications, the RAG method can significantly improve the precision of model output and effectively prevent model hallucination and fabrication.
+
+Based on these research findings, we have proposed a framework for enterprise-level next generation GPT intelligent application engineering, which is based on Retrieval Augmented Generation and Prompt Engineering methodology. The framework, as shown in the diagram below, allows developers to quickly build their own large-scale intelligent applications without modifying the model itself, and immediately enjoy the productivity dividend brought by the new generation of artificial intelligence for any business scenarios.
 
  ![architecture](./media/Enterprise-GPT-Intelligent-App-Workshop.jpg)
 
