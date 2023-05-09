@@ -61,7 +61,7 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - [Project Miyagi - Financial coach](https://github.com/appdevgbb/miyagi)
 - [reddog-solutions](https://github.com/Azure/reddog-solutions)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/)
-- [Conversational-Azure-OpenAI-Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator)
+- [Conversational Azure OpenAI (ChatGPT) Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator)
 
 ### Reference
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
