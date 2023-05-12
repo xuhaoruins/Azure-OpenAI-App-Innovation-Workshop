@@ -34,7 +34,7 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - Workshop content [Chinese](./Workshop%20Content%20CHS/)
 - Workshop content [English](./Workshop%20Content%20EN/)
 - [Demo notebook](./Demo%20Notebook/)
-- [Source code](./Source%20Code/)
+- [Workshop Project - miyagi](https://github.com/Azure-Samples/miyagi)
 - [Hands on lab manual](./Hands%20on%20lab%20manual/)
 
 ### Product Documents
