@@ -34,11 +34,17 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - Workshop content [Chinese](./Workshop%20Content%20CHS/)
 - Workshop content [English](./Workshop%20Content%20EN/)
 - [Demo notebook](./Demo%20Notebook/)
-- [Workshop Project - miyagi](https://github.com/Azure-Samples/miyagi)
-- [Hands on lab manual](./Hands%20on%20lab%20manual/)
+- [Workshop code base](https://github.com/Azure/intelligent-app-workshop)
+
+### Hands-on Related Repositories
+- [ChatGPT Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna)
+- [LLM App Pattern - Project Miyagi](https://github.com/Azure-Samples/miyagi)
+- [Knowledge Mining with OpenAI Architecture](https://github.com/MSUSAzureAccelerators/Knowledge-Mining-with-OpenAI)
+- [Azure OpenAI Samples](https://github.com/Azure/azure-openai-samples)
+- [Experimental: Uncle John's Semantic Kernel Recipes](https://github.com/johnmaeda/SK-Recipes)
+- [Learn Azure OpenAI Service with .NET](https://github.com/kinfey/dotNETOAIBooks)
 
 ### Product Documents
-
 - [Azure Openai](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/)
 - [Azure Cognitive Search](https://learn.microsoft.com/zh-cn/azure/search/)
 - [Azure App Service](https://learn.microsoft.com/zh-cn/azure/app-service/)
@@ -50,21 +56,11 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - [Azure Azure Database for PostgreSQL](https://learn.microsoft.com/zh-cn/azure/postgresql/)
 - [Qdrant Vector Database on Azure Cloud](https://github.com/Azure-Samples/qdrant-azure)
 
-### Relevant Repositories
-- [Knowledge Mining with OpenAI Architecture](https://github.com/MSUSAzureAccelerators/Knowledge-Mining-with-OpenAI)
-- [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo)
-- [Azure OpenAI Samples](https://github.com/Azure/azure-openai-samples)
-- [Experimental: Uncle John's Semantic Kernel Recipes](https://github.com/johnmaeda/SK-Recipes)
-- [Hackathon Materials for Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/support/hackathon)
-- [Durable Task Framework](https://github.com/microsoft/durabletask-go/tree/dapr)
-- [Learn Azure OpenAI Service with .NET](https://github.com/kinfey/dotNETOAIBooks)
-- [Project Miyagi - Financial coach](https://github.com/appdevgbb/miyagi)
-- [reddog-solutions](https://github.com/Azure/reddog-solutions)
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/)
-- [Conversational Azure OpenAI (ChatGPT) Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator)
-
 ### Reference
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+- [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+- [Automatic Generation of Grammar-Agnostic Visualizations and Infographics](https://microsoft.github.io/lida/)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. arXiv, 2022](https://arxiv.org/abs/2201.11903)
 - [Emergent Analogical Reasoning in Large Language Models. arXiv:2212.09196, 2022](https://arxiv.org/abs/2212.09196)
 - [Generated Knowledge Prompting for Commonsense Reasoning. arXiv:2110.08387, 2022](https://arxiv.org/abs/2110.08387)
@@ -75,8 +71,6 @@ Whether you are a novice or an experienced professional, this workshop will meet
 - [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f)
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 - [Best practices for prompt engineering with openai api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-
-### Further research and exploration
-- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
-- [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
-- [Automatic Generation of Grammar-Agnostic Visualizations and Infographics](https://microsoft.github.io/lida/)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/)
+- [Durable Task Framework](https://github.com/microsoft/durabletask-go/tree/dapr)
+- [Hackathon Materials for Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/support/hackathon)
